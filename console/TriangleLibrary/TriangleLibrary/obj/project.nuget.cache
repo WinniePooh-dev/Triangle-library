@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzWrOZu61ymC23AS79TFfjHwk3iDCt4B6LXFjCFUgW16o49EAeMu52LZJIfY/kvpuuHyDB3r7YqeGSUYn3sXrw==",
+  "success": true,
+  "projectFilePath": "D:\\Triangle library C#\\console\\TriangleLibrary\\TriangleLibrary\\TriangleLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rbelo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\rbelo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

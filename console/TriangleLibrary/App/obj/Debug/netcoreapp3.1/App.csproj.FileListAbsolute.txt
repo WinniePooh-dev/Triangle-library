@@ -1,0 +1,16 @@
+D:\Triangle library C#\console\TriangleLibrary\App\bin\Debug\netcoreapp3.1\App.exe
+D:\Triangle library C#\console\TriangleLibrary\App\bin\Debug\netcoreapp3.1\App.deps.json
+D:\Triangle library C#\console\TriangleLibrary\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.json
+D:\Triangle library C#\console\TriangleLibrary\App\bin\Debug\netcoreapp3.1\App.runtimeconfig.dev.json
+D:\Triangle library C#\console\TriangleLibrary\App\bin\Debug\netcoreapp3.1\App.dll
+D:\Triangle library C#\console\TriangleLibrary\App\bin\Debug\netcoreapp3.1\App.pdb
+D:\Triangle library C#\console\TriangleLibrary\App\bin\Debug\netcoreapp3.1\TriangleLibrary.dll
+D:\Triangle library C#\console\TriangleLibrary\App\bin\Debug\netcoreapp3.1\TriangleLibrary.pdb
+D:\Triangle library C#\console\TriangleLibrary\App\obj\Debug\netcoreapp3.1\App.AssemblyInfoInputs.cache
+D:\Triangle library C#\console\TriangleLibrary\App\obj\Debug\netcoreapp3.1\App.AssemblyInfo.cs
+D:\Triangle library C#\console\TriangleLibrary\App\obj\Debug\netcoreapp3.1\App.csproj.CoreCompileInputs.cache
+D:\Triangle library C#\console\TriangleLibrary\App\obj\Debug\netcoreapp3.1\App.csproj.CopyComplete
+D:\Triangle library C#\console\TriangleLibrary\App\obj\Debug\netcoreapp3.1\App.dll
+D:\Triangle library C#\console\TriangleLibrary\App\obj\Debug\netcoreapp3.1\App.pdb
+D:\Triangle library C#\console\TriangleLibrary\App\obj\Debug\netcoreapp3.1\App.genruntimeconfig.cache
+D:\Triangle library C#\console\TriangleLibrary\App\obj\Debug\netcoreapp3.1\App.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Triangle library C#\console\TriangleLibrary\TriangleLibrary\bin\Debug\netstandard2.0\TriangleLibrary.deps.json
+D:\Triangle library C#\console\TriangleLibrary\TriangleLibrary\bin\Debug\netstandard2.0\TriangleLibrary.dll
+D:\Triangle library C#\console\TriangleLibrary\TriangleLibrary\bin\Debug\netstandard2.0\TriangleLibrary.pdb
+D:\Triangle library C#\console\TriangleLibrary\TriangleLibrary\obj\Debug\netstandard2.0\TriangleLibrary.AssemblyInfoInputs.cache
+D:\Triangle library C#\console\TriangleLibrary\TriangleLibrary\obj\Debug\netstandard2.0\TriangleLibrary.AssemblyInfo.cs
+D:\Triangle library C#\console\TriangleLibrary\TriangleLibrary\obj\Debug\netstandard2.0\TriangleLibrary.csproj.CoreCompileInputs.cache
+D:\Triangle library C#\console\TriangleLibrary\TriangleLibrary\obj\Debug\netstandard2.0\TriangleLibrary.dll
+D:\Triangle library C#\console\TriangleLibrary\TriangleLibrary\obj\Debug\netstandard2.0\TriangleLibrary.pdb
+D:\Triangle library C#\console\TriangleLibrary\TriangleLibrary\obj\Debug\netstandard2.0\TriangleLibrary.csprojAssemblyReference.cache
